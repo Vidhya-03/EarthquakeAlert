@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Earthquake Alert</string>
+    <string name="err_offline">"You are offline. Please try again."</string>
+    <string name="data_not_found">"No Earthquake details under this category"</string>
+</resources>
